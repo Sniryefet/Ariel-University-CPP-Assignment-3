@@ -1,0 +1,10 @@
+.vscode
+*.bin
+*.ipch
+pn
+test
+*.o
+PhysicalNumber
+demo
+OurPhysicalNumberTest.cpp
+FeTest.cpp
